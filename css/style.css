@@ -354,3 +354,6 @@ hr{
     margin-top: 100px;
     margin-left: 40% ;
 }
+.p:hover{
+    color: gold;
+}
